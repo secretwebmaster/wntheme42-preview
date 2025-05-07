@@ -2,8 +2,8 @@
 
 ## 模板介紹
 「電影先生」是一款專為影評網站、電影資訊平台和個人影迷部落格設計的高質感主題。它提供極具電影氛圍的視覺設計，支援電影資料庫整合、評分系統、演職員介紹，以及動態評論區。該模板適用於發布最新影評、推薦電影、整理觀影清單，並支援響應式設計，確保在各種設備上都能提供流暢的使用體驗。
-- **橫圖版 Demo：** [wn42.wntheme.com](http://wn42.wntheme.com)
-- **直圖版 Demo：** [wn42p.wntheme.com](http://wn42p.wntheme.com)
+- **橫圖版 Demo：** [wn42.wntheme.com](https://wn42.wntheme.com)
+- **直圖版 Demo：** [wn42p.wntheme.com](https://wn42p.wntheme.com)
 
 ## 模板預覽
 ![模板預覽](https://wntheme.com/wp-content/uploads/2024/11/06093321665-scaled.webp)
